@@ -1,4 +1,4 @@
-package Proxy_Design_Pattern;
+package Structural_Design_Patterns.Proxy_Design_Pattern;
 
 public class ExpensiveObjectProxy implements ExpensiveObject{
     private static ExpensiveObject object;
